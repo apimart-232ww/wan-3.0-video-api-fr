@@ -1,0 +1,14 @@
+{
+  "model_id": "wan3.0-video",
+  "family": "Wan 3.0",
+  "snapshot": "2026-09-21",
+  "unit": "par seconde",
+  "price_effective": {
+    "480P": 0.03288,
+    "720P": 0.065752
+  },
+  "endpoint": "https://api.apimart.ai/v1/videos/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "fr",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
