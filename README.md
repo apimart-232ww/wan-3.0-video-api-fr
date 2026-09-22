@@ -2,7 +2,8 @@
 
 > **0.0329 $ par seconde (480P)**, facturé à l'usage. Recharge à partir de 1 $ et une seule URL compatible OpenAI : `https://api.apimart.ai/v1`.
 
-**[Page modèle Wan 3.0](https://go.apimart.ai/k-073c51)** · **[Tarifs en direct](https://go.apimart.ai/k-e4ca28)** · **[Obtenir une clé API](https://go.apimart.ai/k-fe9d5b)**
+<p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Wan 3.0 sample frame"></p>
+**[Page modèle Wan 3.0](https://apimart.ai/fr/model/wan-3-0)** · **[Tarifs en direct](https://apimart.ai/fr/pricing)** · **[Obtenir une clé API](https://apimart.ai/fr/keys)**
 
 La dernière génération d'Alibaba : moins de 3,3 cents la seconde en 480p, même API pour texte et image.
 
@@ -20,6 +21,13 @@ La dernière génération d'Alibaba : moins de 3,3 cents la seconde en 480p, mê
 | `model` | `wan3.0-video` |
 | endpoint | `POST https://api.apimart.ai/v1/videos/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## Exemples réellement générés (résultats d'appels réels)
+
+| Sortie | file | Coût | prompt |
+| --- | --- | --- | --- |
+| <img src="assets/01-preview-thumb.jpg" width="260"> | [01-preview.mp4](assets/01-preview.mp4) | $0.1644 | `villa moderne sur une falaise, heure dorée, piscine reflétant le ciel, travelling avant le` |
 
 ## Tarifs relevés
 

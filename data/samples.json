@@ -1,0 +1,19 @@
+{
+  "model": "wan3.0-video",
+  "samples": [
+    {
+      "repo": "wan-3.0-video-api-fr",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.mp4",
+      "bytes": 1641000,
+      "thumb": "01-preview-thumb.jpg",
+      "cost": 0.1644,
+      "prompt": "villa moderne sur une falaise, heure dorée, piscine reflétant le ciel, travelling avant lent",
+      "lang": "fr",
+      "note": "原始 3.15MB 触发上传 400，已用 avconvert 压制到 640x480/1.64MB 再提交"
+    }
+  ],
+  "cost_usd": 0.1644,
+  "generated_at": "2026-09-21"
+}
